@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/fer9003/argocdbasic.git
     targetRevision: HEAD
-    path: ./declarative/manifests/heliocentric-model-no-pluto
+    path: ./declarative/manifest/heliocentric-model-no-pluto
    
   destination:
     server: https://kubernetes.default.svc
